@@ -1,0 +1,33 @@
+As a customer
+
+he want to wat the food
+
+so that he can search
+
+scope:
+
+user should be able to search the food swiggy application
+
+Pre-conditions
+
+first he should login to the application
+
+Acceptance criteria
+
+Scenario 1:
+
+user can search the food successfully
+
+he acn select the his wished food
+
+the the food will go to the cart
+
+Scenario 2:
+
+he dont loging to the application
+
+the hotel is desired
+
+he searhed is out of state
+
+cost is high
